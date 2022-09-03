@@ -1,3 +1,3 @@
-### Treasure hunt
+# Treasure hunt
 
-# To run the game execute python main.py
+### To run the game execute python main.py
